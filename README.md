@@ -2,13 +2,13 @@
 
 **Instant Intelligence from Multiple Documents**
 
-OmniDoc AI is a high-performance, RAG-powered (Retrieval-Augmented Generation) chatbot designed to transform static document repositories into interactive knowledge bases. It allows users to query multiple PDF files simultaneously with sub-second inference speeds and human-like accuracy.
+Multi-Doc RAG Chatbot is a high-performance, RAG-powered (Retrieval-Augmented Generation) chatbot designed to transform static document repositories into interactive knowledge bases. It allows users to query multiple PDF files simultaneously with sub-second inference speeds and human-like accuracy.
 
 ---
 
 ## 🚀 Project Overview
 
-OmniDoc AI bridges the gap between massive unstructured PDF data and actionable insights. By combining the speed of the Groq LPU with the orchestration of LangChain, it provides a seamless chat experience where responses are strictly grounded in the provided documents, eliminating AI hallucinations.
+Multi-Doc RAG Chatbot bridges the gap between massive unstructured PDF data and actionable insights. By combining the speed of the Groq LPU with the orchestration of LangChain, it provides a seamless chat experience where responses are strictly grounded in the provided documents, eliminating AI hallucinations.
 
 ---
 
