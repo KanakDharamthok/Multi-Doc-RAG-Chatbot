@@ -1,4 +1,4 @@
-📚 Multi-Doc RAG Chatbot
+📚 ** Multi-Doc RAG Chatbot**
 **Instant Intelligence from Multiple Documents**
 
 OmniDoc AI is a high-performance, RAG-powered (Retrieval-Augmented Generation) chatbot designed to transform static document repositories into interactive knowledge bases. It allows users to query multiple PDF files simultaneously with sub-second inference speeds and human-like accuracy.
